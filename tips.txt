@@ -1,0 +1,9 @@
+https://christophm.github.io/interpretable-ml-book/simple.html
+
+Interpreting model results
+SHAP (SHapley Additive exPlanations) is a game theoretic approach to explain the output of any machine learning model. It connects optimal credit allocation with local explanations using the classic Shapley values from game theory and their related extensions see the following link:
+https://github.com/slundberg/shap
+
+
+Data visualization and clustering:
+https://hypertools.readthedocs.io/en/latest/
